@@ -1,119 +1,188 @@
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--   AMAN SAINI · GitHub Profile README                                   -->
+<!--   Data Analyst · BI Developer · AI & Automation                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,100:1f6feb&height=190&section=header&text=Aman%20Saini&fontSize=58&fontColor=e6edf3&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20AI%20%26%20Automation&descSize=17&descColor=8b949e&descAlignY=58" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%"/>
 </div>
 
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   AMAN SAINI                                                                 ║
+║   Data Analyst  ·  BI Developer  ·  AI & Automation                         ║
+║                                                                              ║
+║   20+ yrs turning messy data into decisions that matter.                     ║
+║   Based in India  ·  Open to global collaboration.                           ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=1F6FEB&center=true&vCenter=true&width=620&lines=Power+BI+%7C+SQL+%7C+Python+%7C+Machine+Learning;AI-Powered+Automation+with+n8n+%26+Claude+AI;Transforming+Raw+Data+into+Business+Intelligence;Vibe+Coding+with+Cursor%2C+Copilot+%26+More)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-saini-912850372)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amansaini.data.acc@gmail.com)
-[![Portfolio Views](https://komarev.com/ghpvc/?username=amansaini&style=flat-square&color=1f6feb&label=Profile+Views)](https://github.com/amansaini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-saini-912850372)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-amansaini.data.acc%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amansaini.data.acc@gmail.com)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=amansaini&style=flat-square&color=6e7681&label=Views)](https://github.com/amansaini)
 
 </div>
-
-<br/>
-
-## About
-
-I'm a **Data Analyst and BI Developer** based in India, focused on building end-to-end analytics solutions — from raw data ingestion and SQL-based transformation to interactive Power BI dashboards and ML-driven insights. I also build intelligent automation workflows using n8n and AI APIs to eliminate repetitive manual tasks and accelerate decision-making.
-
-- Currently building data analytics projects with **Power BI, SQL, Python & ML**
-- Learning **n8n Automation** and **AI workflow integration**
-- Open to collaborating on **real-world data projects and dashboard development**
-- Ask me about **Power BI, SQL, Python, Data Cleaning & Visualization**
 
 ---
 
-## Tech Stack
+## `$ whoami`
 
-**Data Analytics & Visualization**
+Senior-level data professional with two decades of hands-on experience across the full analytics stack — from raw data ingestion and relational modelling to executive-facing Power BI dashboards and production ML pipelines. Currently integrating AI-native workflows (Claude AI + n8n) to automate what used to take days.
+
+I don't build dashboards. I build **decision infrastructure**.
+
+---
+
+## `$ cat expertise.txt`
+
+```yaml
+Core Discipline   : Business Intelligence · Analytical Engineering · ML Modeling
+Primary Tools     : Power BI · SQL (MySQL / T-SQL) · Python · Excel
+ML & Stats        : scikit-learn · SciPy · Regression · Classification · Clustering
+AI & Automation   : n8n · Claude AI · ChatGPT · Prompt Engineering
+Web               : HTML5 · CSS3 · JavaScript (vanilla, utility-first)
+Dev Environment   : VS Code · Cursor · Jupyter · GitHub Copilot · Windsurf
+Deployment        : Bolt.new · v0 by Vercel · Codeium
+Focus Markets     : India (NSE · BSE · NIFTY · SENSEX) + Global
+```
+
+---
+
+## `$ ls ./tech-stack/`
+
+<table>
+<thead>
+<tr>
+<th align="left">Layer</th>
+<th align="left">Stack</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Visualization & BI</strong></td>
+<td>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 
-**Programming & Machine Learning**
+</td>
+</tr>
+<tr>
+<td><strong>Data & Databases</strong></td>
+<td>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><strong>Machine Learning</strong></td>
+<td>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**AI Tools & Automation**
+</td>
+</tr>
+<tr>
+<td><strong>AI & Automation</strong></td>
+<td>
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
 
-**Web & Dev Tools**
+</td>
+</tr>
+<tr>
+<td><strong>Web & Dev</strong></td>
+<td>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
-## Vibe Coding Setup
-
-> The AI-assisted development tools I use daily to write, debug, and ship faster.
-
-| Tool | Role | Badge |
-|------|------|-------|
-| **VS Code** | Primary Editor | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-| **Cursor** | AI-Native IDE | ![Cursor](https://img.shields.io/badge/Cursor-1C1C1C?style=flat-square&logoColor=white) |
-| **GitHub Copilot** | AI Pair Programmer | ![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white) |
-| **Windsurf** | Agentic AI Editor | ![Windsurf](https://img.shields.io/badge/Windsurf-1A85FF?style=flat-square&logoColor=white) |
-| **Codeium** | AI Code Completion | ![Codeium](https://img.shields.io/badge/Codeium-09B585?style=flat-square&logo=codeium&logoColor=white) |
-| **Bolt.new** | AI Full-Stack Builder | ![Bolt](https://img.shields.io/badge/Bolt.new-000000?style=flat-square&logo=stackblitz&logoColor=white) |
-| **v0 by Vercel** | AI UI Generator | ![v0](https://img.shields.io/badge/v0-000000?style=flat-square&logo=vercel&logoColor=white) |
-
----
-
-## GitHub Stats
+## `$ top --stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amansaini&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansaini&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amansaini&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&rank_icon=github&custom_title=Repository+Activity" height="155"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansaini&theme=github_dark&hide_border=true&layout=compact&langs_count=6&custom_title=Language+Distribution" height="155"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=amansaini&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=amansaini&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" height="140"/>
 
 </div>
 
 ---
 
-## Contribution Activity
+## `$ git log --contribution-graph`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansaini&theme=tokyo-night&bg_color=1a1b27&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansaini&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution+Timeline" width="100%"/>
 </div>
 
 ---
 
-## GitHub Trophies
+## `$ cat /etc/ai-workflow.conf`
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=amansaini&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=7"/>
-</div>
+```
+[automation_stack]
+orchestration  = n8n (self-hosted)
+llm_primary    = Claude AI (Anthropic)
+llm_secondary  = ChatGPT (OpenAI)
+use_cases      = report_generation, data_pipeline_alerts,
+                 anomaly_triage, NL-to-SQL, insight_summarization
+
+[vibe_coding]
+ide            = VS Code + Cursor + Windsurf
+ai_pair        = GitHub Copilot + Codeium
+rapid_proto    = Bolt.new + v0 by Vercel
+philosophy     = ship_fast, refine_ruthlessly
+```
+
+---
+
+## `$ cat PRINCIPLES.md`
+
+> **"Data without context is noise. Context without structure is opinion. I build the bridge."**
+
+- Clean > clever. Readable SQL beats a 400-line nested subquery.
+- Every dashboard has one job: answer the question before it's asked.
+- Automate the repeatable. Reserve human judgment for what actually needs it.
+- Version-control everything, including logic, assumptions, and decisions.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,60:161b22,100:0d1117&height=110&section=footer" width="100%"/>
+```
+────────────────────────────────────────────────────
+  Available for consulting · collaboration · builds
+  amansaini.data.acc@gmail.com
+────────────────────────────────────────────────────
+```
 
 </div>
